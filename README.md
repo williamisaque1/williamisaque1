@@ -3,7 +3,7 @@ faço análise de sistemas na unitau estou no 6º semestre .
 tenho experiência em Java, Javascript ,Css3 , Html5, Node js , React js, Flutter, PLpgSQL , Banco de dados relacionais e não relacionais .
 atualmente me especializando em React native :)
 Taubaté/sp
-
+body:{background-color="blue"}
  <div>
   <a href="https://github.com/williamisaque1/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamisaque1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
